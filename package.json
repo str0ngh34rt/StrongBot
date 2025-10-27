@@ -1,11 +1,11 @@
 {
-  "name": "discord-stronghold-bot",
+  "name": "strongbot",
   "version": "1.0.0",
   "description": "Discord bot that maps users to roles and Steam IDs, with stronghold contact command functionality",
-  "main": "bot.js",
+  "main": "strongbot.js",
   "scripts": {
-    "start": "node bot.js config.json",
-    "dev": "nodemon bot.js config.json",
+    "start": "node strongbot.js config.json",
+    "dev": "nodemon strongbot.js config.json",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
