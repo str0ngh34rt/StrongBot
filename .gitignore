@@ -1,3 +1,7 @@
+# StrongBot inputs/outputs
+config.json
+discord_users.xml
+
 # Logs
 logs
 *.log
