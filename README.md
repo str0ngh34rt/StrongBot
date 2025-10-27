@@ -117,7 +117,7 @@ npm start
 
 Or with a custom config file:
 ```bash
-node bot.js /path/to/config.json
+node strongbot.js /path/to/config.json
 ```
 
 ### Development Mode
