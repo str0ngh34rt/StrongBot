@@ -21,7 +21,7 @@ A Discord bot that maintains an XML file mapping Discord users to their roles an
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd discord-stronghold-bot
+cd strongbot
 ```
 
 2. Install dependencies:
